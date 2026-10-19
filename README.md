@@ -69,56 +69,9 @@ This portfolio showcases enterprise-inspired projects that demonstrate technical
 
 ---
 
-# 📂 Featured Projects
+# 📂  Projects
 
-## 🚧 SQL Performance Lab
-
-Enterprise performance tuning scenarios covering:
-
-- Query Optimization
-- Execution Plans
-- Parameter Sniffing
-- Wait Statistics
-- Deadlocks
-- Blocking
-- Index Design
-
----
-
-## 🚧 Database Troubleshooting Playbook
-
-A collection of real-world inspired troubleshooting scenarios including:
-
-- SQL Server Performance
-- Blocking
-- Deadlocks
-- TempDB
-- Backup & Restore
-- Replication
-- High Availability
-
----
-
-## 🚧 Enterprise Sales Analytics
-
-Complete Business Intelligence solution including:
-
-- SQL Server
-- ETL
-- Data Warehouse
-- Star Schema
-- Power BI
-- Executive Dashboard
-
----
-
-## 🚧 Modern Data Platform on Azure
-
-Cloud-based Data Engineering solution built using:
-
-- Azure SQL Database
-- Azure Data Factory
-- Azure Storage
+## 🚧 fabric-data-reliability-lab
 
 ---
 
